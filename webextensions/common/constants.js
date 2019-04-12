@@ -36,7 +36,7 @@ export const kNOTIFICATION_DEFAULT_ICON = '/resources/24x24-light.svg';
 export const kPOPUP_URL = '/panel/panel.html';
 
 
-export const kTST_ID = 'treestyletab@piro.sakura.ne.jp';
+export const kTST_ID = 'treestyletab@15cm.net';
 
 export const kTSTAPI_REGISTER_SELF           = 'register-self';
 export const kTSTAPI_UNREGISTER_SELF         = 'unregister-self';
