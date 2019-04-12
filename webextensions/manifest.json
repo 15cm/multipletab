@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
-  "version": "3.0.5",
+  "version": "3.0.5.1",
   "author": "YUKI \"Piro\" Hiroshi",
   "description": "__MSG_extensionDescription__",
   "permissions": [
@@ -64,7 +64,7 @@
   "default_locale": "en",
   "applications": {
     "gecko": {
-      "id": "multipletab@piro.sakura.ne.jp",
+      "id": "multipletab@15cm.net",
       "strict_min_version": "64.0"
     }
   }
